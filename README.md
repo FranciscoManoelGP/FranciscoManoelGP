@@ -14,9 +14,9 @@ I have a natural curiosity and a strong desire to study new technologies. I've a
 
 If you have any questions, ideas, or just want to connect, say no more! Just contact me, let's work together.
 
-<div>
-  ![O5QUqH5](https://github.com/FranciscoManoelGP/FranciscoManoelGP/assets/114162615/a060d6cd-135b-48ef-aef5-39a8ddb3982f)
-</div>
+
+![O5QUqH5](https://github.com/FranciscoManoelGP/FranciscoManoelGP/assets/114162615/a060d6cd-135b-48ef-aef5-39a8ddb3982f)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco%20Manoel%20Gama%20Pereira-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/francisco-manoel-gama-pereira-742406247)
 [![Instagram](https://img.shields.io/badge/Instagram-f.manoel__-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/f.manoel_/?hl=pt-br)
