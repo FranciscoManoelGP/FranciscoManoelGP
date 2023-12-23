@@ -12,10 +12,10 @@ I have a natural curiosity and a strong desire to study new technologies. I've a
 
 ## Get in Touch
 
-I'm always eager to discuss web development and collaborate on interesting projects. If you have any questions, ideas, or just want to connect, feel free to reach out.
+If you have any questions, ideas, or just want to connect, say no more! Just contact me, let's work together.
 
 <div>
-  <img src="https://piskel-imgstore-b.appspot.com/img/6995e6d1-f846-11ed-a5e2-210dfca2d27d.gif" alt="GIF" width="200" height="200">
+  <img src="https://i.imgur.com/O5QUqH5.mp4" alt="GIF" width="200" height="200">
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco%20Manoel%20Gama%20Pereira-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/francisco-manoel-gama-pereira-742406247)
